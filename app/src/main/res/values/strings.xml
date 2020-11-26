@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">26.11.20.4</string>
+    <string name="one_four">1234</string>
+    <string name="three">3333</string>
+    <string name="four_seven">4567</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="last">Фамилия</string>
+    <string name="first">Имя</string>
+    <string name="ot">Отчество</string>
+    <string name="year">Год</string>
+    <string name="city">Город</string>
+    <string name="school">Школа</string>
+    <string name="exp">Опыт программирования</string>
+    <string name="prog_lang">Знание языков программирования</string>
+</resources>
